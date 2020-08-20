@@ -1,0 +1,7 @@
+﻿  Bucket Sort Multithreaded Summer 2020-4.cpp
+C:\Users\cecil\source\repos\CS 2420\Assignment8\Bucket Sort Multithreaded Summer 2020-4.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\cecil\source\repos\CS 2420\Assignment8\Bucket Sort Multithreaded Summer 2020-4.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cecil\source\repos\CS 2420\Assignment8\Bucket Sort Multithreaded Summer 2020-4.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cecil\source\repos\CS 2420\Assignment8\Bucket Sort Multithreaded Summer 2020-4.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\cecil\source\repos\CS 2420\Assignment8\Bucket Sort Multithreaded Summer 2020-4.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
+  Assignment8.vcxproj -> C:\Users\cecil\source\repos\CS 2420\Debug\Assignment8.exe
